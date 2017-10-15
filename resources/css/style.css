@@ -9,9 +9,7 @@ h1 {
   color:white;
 }
 
-.background {
-  background-image: url("../images/the-flatiron-building.png";);
-}
+.background {background-image: url("../the-flatiron-building.png");}
 
 .notinuse {
   font-family: Helvetica;
