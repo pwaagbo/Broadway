@@ -14,8 +14,17 @@ h1 {
 }
 
 .background p {
-    font-size: 18px;
+  font-size: 18px;
   color: white;
+}
+
+a {
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weigth: bold;
 }
 
 footer {
