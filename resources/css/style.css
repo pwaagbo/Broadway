@@ -11,6 +11,7 @@ h1 {
 
 .background {
   background-image: url("../the-flatiron-building.png");
+  color:white;
 }
 
 .background p {
